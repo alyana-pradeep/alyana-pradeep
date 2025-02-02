@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me GITHUB
-- 😄 Pronouns: i'm super cool
+- 😄 Pronouns: he/him (Pradeep)
 - ⚡ Fun fact: i'm still in beginner level
 
 <!---
