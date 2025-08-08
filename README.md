@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me GITHUB
 - 😄 Pronouns: he/him (Pradeep)
-- ⚡ Fun fact: i'm still in beginner level
+- ⚡ Fun fact: i am not lazy
 
 <!---
 alyana-pradeep/alyana-pradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
